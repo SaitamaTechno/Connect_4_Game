@@ -1,1 +1,1 @@
-# Connect_4_Game
+# Connect 4 Game in C
